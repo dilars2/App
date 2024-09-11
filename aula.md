@@ -60,3 +60,4 @@ Apresentar os dados
 
 ## Condicionais
 
+[x] switch
